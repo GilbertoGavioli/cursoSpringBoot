@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "eureka.client.servive-url.defaultZone",
+  "type": "java.lang.String",
+  "description": "A description for 'eureka.client.servive-url.defaultZone'"
+}]}
