@@ -1,8 +1,8 @@
-package com.gfgavioli.hrworker.repositories;
+package com.gilbertogavioli.hrworker.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.gfgavioli.hrworker.entities.Worker;
+import com.gilbertogavioli.hrworker.entities.Worker;
 
 public interface WorkerRepository extends JpaRepository<Worker, Long> {
 
